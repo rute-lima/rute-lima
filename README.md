@@ -1,12 +1,18 @@
-- 👋 Hello, I'm @rute-lima
-- 👀 I'm interested in becoming a programmer.
-- 🌱 I am currently learning programming logic
-- 💞️ I try to collaborate in everything I can
-- 📫 How to contact me — email rutemoreira811@gmail.com
-- 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I love eating stroganoff.
+# Olá, eu sou a Rute Vitória 👋
 
-<!---
-rute-lima/rute-lima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Estudante de **Ciência da Computação** na UNIP (conclusão prevista em 2029), em busca de estágio em **Desenvolvimento de Software**.
+
+Tenho experiência com análise de dados, relatórios e suporte a usuários, e agora estou aplicando isso na programação.
+
+## 🛠️ Tecnologias que estou estudando
+- Java
+- SQL e banco de dados relacional
+- Lógica de programação
+
+## 🌱 Neste momento
+- Praticando Java com exercícios e pequenos projetos
+- Aprendendo Git e GitHub
+
+## 📫 Contato
+- E-mail: rutemoreira811@gmail.com
+- LinkedIn: [linkedin.com/in/rute-vitória-lima-dos-reis](https://www.linkedin.com/in/rute-vit%C3%B3ria-lima-dos-reis)
